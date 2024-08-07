@@ -26,6 +26,9 @@
   /* font-size: calc(10px + 2vmin); */
   color: white;
 }
+.App-header h1 {
+  font-size: calc(10px + 2vmin);
+}
 
 .App-link {
   color: #61dafb;
@@ -62,7 +65,7 @@ main{
   margin: 5px 0;
 }
 .weather-place {
-  padding: 20px;
+  padding: 0  0 20px;
 }
 .weather-place .place {
   padding: 5px 5px;
